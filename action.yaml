@@ -19,5 +19,5 @@ outputs:
     description: 'List of valid files.'
 
 runs:
-  using: 'node12'
+  using: 'node20'
   main: 'index.js'
